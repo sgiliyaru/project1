@@ -1,0 +1,3 @@
+Mark the scope of the certification tests
+Assumptions about the scope- Report is the output that we will be testing the most and not, infrastructure robustness
+Be explicit about mobile only testing on emulator
